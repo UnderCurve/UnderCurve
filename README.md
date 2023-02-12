@@ -1,3 +1,5 @@
+<h1 align="center">Hello! 👋</h1>
+<h3 align="center"> I'm UnderCurve and I make things.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=UnderCurve&color=blue&style=for-the-badge" alt="Profile Views" /> </p>
 
