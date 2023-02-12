@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋</h1>
 <h3 align="center"> I'm UnderCurve and I make things.</h3>
 
-<p align="center"> <img href="https://youtube.com/@UnderCurve" src="https://user-images.githubusercontent.com/85709030/218328850-5aa022d6-6492-4a4a-b44a-b2699bf1c692.png" >
+<p align="center"> <a href="href="https://youtube.com/@UnderCurve""><img src="https://user-images.githubusercontent.com/85709030/218328850-5aa022d6-6492-4a4a-b44a-b2699bf1c692.png" height="50" width="auto" ></a>
  </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=UnderCurve&color=blue&style=for-the-badge" alt="Profile Views" /> </p>
