@@ -3,7 +3,11 @@
 
 <p align="center"> <a href="https://youtube.com/@UnderCurve">YouTube</a> • <a href="https://twitch.tv/UnderCurve68">Twitch</a> • <a href="https://UnderCurve.wdym.info">My Website</a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=UnderCurve&color=blue&style=for-the-badge" alt="Profile Views" /> </p>
+<p align="center"> 
+  <a href="https://github.com/UnderCurve">
+    <img src="https://komarev.com/ghpvc/?username=UnderCurve&color=blue&style=for-the-badge" alt="Profile Views" /> 
+  </a>
+</p>
 
 <p align="center">
   <a href="https://discord.com/users/584349058236416024">
