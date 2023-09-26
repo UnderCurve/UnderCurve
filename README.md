@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋</h1>
 <h3 align="center"> I'm UnderCurve and I make things.</h3>
 
-<p align="center"> <a href="https://youtube.com/@UnderCurve">YouTube</a> • <a href="https://twitch.tv/UnderCurve68">Twitch</a> • <a href="https://UnderCurve.wdym.info">My Website</a> </p>
+<p align="center"> <a href="https://youtube.com/@UnderCurve">YouTube</a> • <a href="https://twitch.tv/UnderCurveTV">Twitch</a> • <a href="https://UnderCurve.wdym.info">My Website</a> </p>
 
 <p align="center"> 
   <a href="https://github.com/UnderCurve">
