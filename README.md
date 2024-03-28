@@ -1,11 +1,11 @@
 <h1 align="center">Hello! 👋</h1>
-<h3 align="center"> I'm UnderCurve and I make things.</h3>
+<h3 align="center">I'm UnderCurve and I make things.</h3>
 
-<p align="center"> <a href="https://youtube.com/@UnderCurve">YouTube</a> • <a href="https://twitch.tv/UnderCurveTV">Twitch</a> • <a href="https://UnderCurve.wdym.info">My Website</a> </p>
+<p align="center"> <a href="https://l.wdym.info/yt">YouTube</a> • <a href="https://l.wdym.info/ttv">Twitch</a> • <a href="https://l.wdym.info/home">My Website</a> </p>
 
 <p align="center"> 
   <a href="https://github.com/UnderCurve">
-    <img src="https://komarev.com/ghpvc/?username=UnderCurve&color=blue&style=for-the-badge" alt="Profile Views" /> 
+    <img src="https://raw.githubusercontent.com/UnderCurve/UnderCurve/main/github-metrics.svg" alt="GitHub/Music Stats" /> 
   </a>
 </p>
 
