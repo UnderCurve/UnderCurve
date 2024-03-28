@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <a href="https://github.com/UnderCurve">
-    <img src="https://raw.githubusercontent.com/UnderCurve/UnderCurve/main/github-metrics.svg" alt="GitHub/Music Stats" /> 
+    <img src="https://raw.githubusercontent.com/UnderCurve/UnderCurve/main/github-metrics.svg" alt="Metrics" width="100%">
   </a>
 </p>
 
