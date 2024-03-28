@@ -2,7 +2,7 @@
 name: Get Stats
 on:
   schedule:
-    - cron: "0 8 1/2 * *"
+    - cron: "0 8 * * *"
   workflow_dispatch:
   workflow_call:
     secrets:
