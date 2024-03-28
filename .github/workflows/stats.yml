@@ -32,7 +32,14 @@ jobs:
           config_display: columns
           config_octicon: yes
           config_timezone: America/Chicago
-
+  lastfm-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: lastfm-metrics.svg
           plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
           plugin_music: yes
           plugin_music_mode: recent
