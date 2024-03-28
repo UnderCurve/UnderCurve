@@ -1,0 +1,21 @@
+# lastfm_metrics.yml
+
+name: Last.fm Metrics
+on:
+  schedule:
+    - cron: "0 8 1/2 * *"
+  workflow_dispatch:
+
+jobs:
+  lastfm-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Last.fm Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: lastfm-metrics.svg
+          plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
+          plugin_music: yes
+          plugin_music_mode: recent
+          plugin_music_provider: lastfm
+          plugin_music_user: UnderCurve
