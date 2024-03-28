@@ -28,8 +28,8 @@ jobs:
           user: UnderCurve
           template: classic
           base: header, activity, repositories, metadata
+          config_display: large
           base_indepth: yes
-          config_display: columns
           config_octicon: yes
           config_timezone: America/Chicago
           plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
